@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aclonica</item>
+        <item>@font/alegreya_sans_sc_light</item>
+        <item>@font/amaranth_bold</item>
+        <item>@font/amatic_sc_bold</item>
+        <item>@font/baloo</item>
+        <item>@font/baloo_da</item>
+        <item>@font/bowlby_one</item>
+        <item>@font/bungee_inline</item>
+        <item>@font/crushed</item>
+        <item>@font/delius_unicase_bold</item>
+        <item>@font/glegoo</item>
+        <item>@font/kavoon</item>
+        <item>@font/varela_round</item>
+    </array>
+</resources>
